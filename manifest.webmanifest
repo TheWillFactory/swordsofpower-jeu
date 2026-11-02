@@ -1,0 +1,22 @@
+{
+ "name": "Swords of Power",
+ "short_name": "Swords",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "background_color": "#07060a",
+ "theme_color": "#07060a",
+ "icons": [
+  {
+   "src": "g/icon_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "g/icon_512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
